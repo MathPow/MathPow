@@ -32,7 +32,7 @@ Je contribue actuellement à ces projets open-source :
 
 <p align=center>
 <b>Venez me parler!</b><br/>
-<a href="https://github.com/MathPow/">GitHub</a> · <a href="https://www.linkedin.com/in/mathys-deshaies/">LinkedIn</a>
+<a href="https://github.com/MathPow/">GitHub</a> · <a href="https://www.linkedin.com/in/mathys-deshaies/">LinkedIn</a> · <a href="mailto:mathys.deshaies.co@gmail.com">Email</a>
   <br/><br/><br/><br/>
 <img src="https://github.com/MathPow/MathPow/blob/main/free-arrow-down-icon-3101-thumb.png" alt="" width="10"> English Version <img src="https://github.com/MathPow/MathPow/blob/main/free-arrow-down-icon-3101-thumb.png" alt="Alt Text" width="10">
   <br/><br/>
@@ -65,5 +65,5 @@ I'm currently contributing to these open-source projects:
 
 <p align=center>
 <b>Let's Connect!</b><br/>
-<a href="https://github.com/MathPow/">GitHub</a> · <a href="https://www.linkedin.com/in/mathys-deshaies/">LinkedIn</a>
+<a href="https://github.com/MathPow/">GitHub</a> · <a href="https://www.linkedin.com/in/mathys-deshaies/">LinkedIn</a> · <a href="mailto:mathys.deshaies.co@gmail.com">Email</a>
 </p>
