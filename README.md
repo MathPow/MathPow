@@ -29,6 +29,7 @@ Je contribue actuellement à ces projets open-source :
 [MakeRead.me](https://github.com/ShaanCoding/makeread.me) & [DevEngageAnalytics](https://github.com/MathPow/DevEngageAnalytics)
 
 [![MathPow's GitHub stats](https://github-readme-stats.vercel.app/api?username=MathPow)](https://github.com/MathPow)
+[![DevEngageAnalytics' stats](https://github-readme-stats.vercel.app/api/pin/?username=MathPow&repo=DevEngageAnalytics&show_owner=true)](https://github.com/MathPow/DevEngageAnalytics)
 
 <p align=center>
 <b>Venez me parler!</b><br/>
@@ -62,6 +63,7 @@ I'm currently contributing to these open-source projects:
 [MakeRead.me](https://github.com/ShaanCoding/makeread.me) & [DevEngageAnalytics](https://github.com/MathPow/DevEngageAnalytics)
 
 [![MathPow's GitHub stats](https://github-readme-stats.vercel.app/api?username=MathPow)](https://github.com/MathPow)
+[![DevEngageAnalytics' stats](https://github-readme-stats.vercel.app/api/pin/?username=MathPow&repo=DevEngageAnalytics&show_owner=true)](https://github.com/MathPow/DevEngageAnalytics)
 
 <p align=center>
 <b>Let's Connect!</b><br/>
